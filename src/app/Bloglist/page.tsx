@@ -83,7 +83,7 @@ const BlogList = () => {
     <div className="min-h-screen bg-gray-50 text-gray-800">
       <div className="container mx-auto py-8 px-4">
         <h1 className="text-4xl font-bold text-red-600 text-center mb-10">
-          Blog Posts
+         My Blogs 
         </h1>
         <div className="grid gap-6 md:grid-cols-2 lg:grid-cols-3">
           {posts.map((post) => (
